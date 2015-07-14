@@ -17,12 +17,16 @@ h3 {
 
 iframe {
 	margin: 0;
-	padding: 20px;
-	border: none;
+	padding: 0;
+	border: 5px solid #B2CC64;
 	width: 800px;
 	height: 400px;
 }
 
+#websites {
+	padding: 20px;
+	text-align: center;
+}
 #intro {
 	background: url('/images/banner_img.jpg') no-repeat center center fixed;
 	width: 100%;
