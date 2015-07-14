@@ -15,6 +15,14 @@ h3 {
 	font-size: 32px;
 }
 
+iframe {
+	margin: 0;
+	padding: 20px;
+	border: none;
+	width: 400px;
+	height: 400px;
+}
+
 #intro {
 	background: url('/images/banner_img.jpg') no-repeat center center fixed;
 	width: 100%;
